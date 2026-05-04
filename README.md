@@ -1,4 +1,4 @@
-# PFO2 - Sistema de gestión de tareas
+# PFO2 - Sistema de gestión de tareas - Victoria Sobral
 
 API REST con Flask y SQLite. Permite registrar usuarios, iniciar sesión y acceder a un panel de tareas. Las contraseñas se guardan hasheadas con bcrypt.
 
